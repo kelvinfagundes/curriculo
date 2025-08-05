@@ -1,0 +1,30 @@
+body{
+    background-color: #9fa3a3;
+}
+
+h1{
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-variant: small-caps;
+    color: #0a0a5a;
+}
+
+h2{
+    font-size: 24px;
+    font-size: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    color: #0a0a5a;
+    text-decoration: underline;
+    margin-left: 10px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 16px;
+    margin-right: 20%;
+    margin-left: 10px;
+
+    
+}
