@@ -20,6 +20,7 @@ h2{
     color: #0a0a5a;
     text-decoration: underline;
     margin-left: 10px;
+    margin-bottom: 0;
 }
 
 p{
@@ -29,6 +30,7 @@ p{
     margin-right: 20%;
     margin-left: 10px;
     line-height: 1.6;   
+    margin-top: 0;
 }
 
 a:link{
@@ -49,3 +51,37 @@ a:active{
     color: black;
     
 }
+
+.menu {
+    text-align: center;
+
+    
+}
+
+.menu li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0;
+}
+
+.menu a {
+            background-color: #8b9191;
+            padding: 8px 15px;
+            display: block;
+            text-decoration: none;
+            color: white;
+            border-radius: 25px;
+            transition: background 0.5s ease;
+            gap: 5px;
+        }
+
+        .menu a:hover {
+            background-color: #1a1abf;
+            color: #fff;
+            text-decoration: none;
+        }
+
+        .menu img {
+            width: 20px;
+        }
+
