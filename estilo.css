@@ -5,6 +5,18 @@ body{
     padding: 20px;
 }
 
+.cabecalho{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: center;
+}
+
+.foto-perfil{
+    width: 100px;border-radius: 50%;
+
+}
+
 h1{
     font-size: 36px;
     font-family: Arial, Helvetica, sans-serif;
